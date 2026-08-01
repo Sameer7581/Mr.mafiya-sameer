@@ -3,7 +3,7 @@ module.exports.config = {
   name: "goibot",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "MR PRINCE",
+  credits: "~*◄⏤͟͟͞🍸M̶R̶. M̶A̶F̶I̶Y̶A̶ ⃝⃪𓆩꯭❛SAMEER❜꯭𓆪⁩⎯꯭͓̽⟶",
   description: "goibot",
   commandCategory: "Noprefix",
   usages: "noprefix",
@@ -549,7 +549,7 @@ if (event.body.indexOf("Bot") == 0 || (event.body.indexOf("bot") == 0)) {
 
 ${rand}                                        
 
-𝑪𝒓𝒆𝒅𝒊𝒕𝒔:𒁍≛⃝PRINCE ❥||ㅎ
+𝑪𝒓𝒆𝒅𝒊𝒕𝒔:𒁍≛⃝~*◄⏤͟͟͞🍸⃝⃪𓆩꯭❛SAMEER❜꯭𓆪⁩⎯꯭͓̽⟶🤍 ❥||ㅎ
 
 ❖•S━━━━━💞━━━━━A•❖`
   }
