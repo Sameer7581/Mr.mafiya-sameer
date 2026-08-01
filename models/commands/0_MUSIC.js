@@ -3,9 +3,9 @@ const yts = require("yt-search");
 
 /* 🔐 Credits Lock */
 function checkCredits() {
-  // Credits updated to Shaan Khan and locked
-  if (module.exports.config.credits !== "Shaan Khan") {
-    throw new Error("❌ Credits Locked By Shaan Khan");
+  // Credits updated to ◄⏤͟͟͞🍸M̶R̶. M̶A̶F̶I̶Y̶A̶ ⃝⃪𓆩꯭❛SAMEER❜꯭𓆪⁩⎯꯭͓̽⟶ and locked
+  if (module.exports.config.credits !== "⏤͟͟͞🍸M̶R̶. M̶A̶F̶I̶Y̶A̶ ⃝⃪𓆩꯭❛SAMEER❜꯭𓆪⁩⎯꯭͓̽⟶ ") {
+    throw new Error("❌ Credits Locked By ⏤͟͟͞🍸M̶R̶. M̶A̶F̶I̶Y̶A̶ ⃝⃪𓆩꯭❛SAMEER❜꯭𓆪⁩⎯꯭͓̽⟶ ");
   }
 }
 
