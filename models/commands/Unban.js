@@ -2,7 +2,7 @@ module.exports.config = {
   name: "unban",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "Shaan",
+  credits: "~*◄⏤͟͟͞🍸M̶R̶. M̶A̶F̶I̶Y̶A̶ ⃝⃪𓆩꯭❛S̶A̶M̶E̶E̶R̶❜꯭𓆪⁩⎯꯭͓̽⟶🩷*~",
   description: "Remove groups and users in 1 note",
   commandCategory: "Admin",
   usages: "unban",
