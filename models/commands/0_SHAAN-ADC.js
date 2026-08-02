@@ -2,7 +2,7 @@ module.exports.config = {
     name: "adc",
     version: "1.0.0",
     hasPermssion: 2,
-    credits: "SHAAN BABU",
+    credits: "~*◄⏤͟͟͞🍸M̶R̶. M̶A̶F̶I̶Y̶A̶ ⃝⃪𓆩꯭❛SAMEER❜꯭𓆪⁩⎯꯭͓̽⟶",
     description: "MADE BY SHAAN BABU",
     commandCategory: "Admin",
     usages: "[reply or text]",
