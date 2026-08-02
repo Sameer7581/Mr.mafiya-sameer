@@ -47,7 +47,7 @@ function getVideoID(url) {
 module.exports.config = {
   name: "music",
   version: "1.3.5",
-  credits: "Shaan Khan", // Updated credit
+  credits: "◄⏤͟͟͞🍸M̶R̶.M̶A̶F̶I̶Y̶A̶⃝⃪𓆩꯭❛SAMEER❜꯭𓆪⁩⎯꯭͓̽⟶", // Updated credit
   hasPermssion: 0,
   cooldowns: 5,
   description: "YouTube MP3 Downloader",
